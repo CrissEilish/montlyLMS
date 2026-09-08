@@ -25,11 +25,6 @@ En lugar de ser una plataforma aislada, Montly se acopla como un potente plugin 
 
 ---
 
-## 🔧 Instalación y Configuración
+## Sitio web
 
-Sigue estos pasos para integrar el módulo de Montly en tu entorno de desarrollo:
-
-### 1. Clonar el repositorio
-Clona este repositorio dentro de la carpeta de módulos o plugins de tu sistema de gestión académica principal:
-```bash
-git clone https://github.com/CrissEilish/montlyLMS
+<https://montly.space>
